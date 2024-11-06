@@ -1,6 +1,6 @@
 # OLX Phishing Kit (POC)
 Фішинговий кіт - це зловмисний електронний ресурс, який містить шкідливий код, що дозволяє автоматизувати проведення незаконних операцій та афер в інтернеті з використанням технік соціальної інженерії й фішингу. <br><br>
-Фішинговий кіт ``olx_phishing_mirror_sample1.html`` був знятий 05.11.2024 з оригінального джерела за URL-адресою: https://hegpo.pages.dev/link_card/af29d8bc (копія Вебархіву - https://web.archive.org/web/20241106065434/https://hegpo.pages.dev/link_card/af29d8bc). 
+Фішинговий кіт ``olx_phishing_mirror_sample1.html`` був знятий 05.11.2024 з оригінального джерела за URL-адресою: https://hegpo.pages.dev/link_card/af29d8bc (копія Вебархіву - https://web.archive.org/web/20241106065434/https://hegpo.pages.dev/link_card/af29d8bc).<br><br> 
 Фішинговий кіт ``olx_phishing_mirror_sample2.html`` був знятий 05.11.2024 з оригінального джерела за URL-адресою: https://guardelly-poluchenyeuah.pages.dev/248319426 (копія Вебархіву - https://web.archive.org/web/20241106073955/https://guardelly-poluchenyeuah.pages.dev/248319426).<br><br>
 Метою зловмисників було заволодіти коштами користувачів платформи OLX.UA.<br><br>
 - Дисклеймер:<br><br>
